@@ -1,4 +1,6 @@
-# Dacon 새싹 해커톤 team 한걸음
+![image](https://github.com/bs7301/dacon_sprout_hackathon/assets/155629366/3aed18fc-acff-498b-8d36-bddd1899e6ab) 
+<h1 align="left">새싹 해커톤🌱  (team.한걸음👣)</h1>
+
 <h3 align="left">Hi 👋, we're from Hanseo Univ🎓</h3>
 
 
