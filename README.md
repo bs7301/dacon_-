@@ -18,3 +18,13 @@
 
 - Matlab <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="20" height="20"/> </a>
 - Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+
+<details>
+  <summary><b>진행현황</b></summary>
+  <div markdown="1">
+    <ul>
+      <li>7.9) open data 저장 </li>
+      <li>7.10) coco 형태의 json파일로 1차 가공</li>
+    </ul>
+  </div>
+</details>
