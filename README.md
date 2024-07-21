@@ -12,7 +12,7 @@
 - 🌱 이태민
 
 <p align="left"> <h3 align="left">Topic✔️</h3> </p>
-시각장애인을 위한 보행 지도 음성 안내 모델
+시각장애인을 위한 보행 지도 음성 안내 어플리케이션
 
 <p align="left"> <h3 align="left">Tools🛠️</h3> </p>
 
