@@ -30,7 +30,7 @@
       <pre>bs_code.ipynb 파일 참고</pre>
       <li>7.21) surface 예측 시연 </li>
       <pre>camera.jpg 카메라 사용, surface_test1.zip 파일 내의 이미지 파일 및 surface 시연1 참고</pre>
-      <li>7.21) surface 예측에 tts 기능 추가 </li>
+      <li>7.21) surface 예측에 생성형 ai중 하나인 tts 기능 추가 </li>
       <pre>surface_test1.zip 파일 내의 surface 시연2 참고</pre>
     </ul>
   </div>
