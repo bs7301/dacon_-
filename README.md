@@ -28,6 +28,8 @@
       <li>7.20) surface 이미지에 대한 학습 및 예측 모델 구성</li>
       <pre>bs_code.ipynb 파일 참조</pre>
       <li>7.21) surface 예측 시연 </li>
+      <li>7.21) surface 예측에 tts 기능 추가 </li>
+      <pre>bs_code.ipynb 파일 참조</pre>
     </ul>
   </div>
 </details>
