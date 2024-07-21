@@ -29,7 +29,7 @@
       <li>7.20) surface 이미지에 대한 학습 및 예측 모델 구성</li>
       <pre>bs_code.ipynb 파일 참조</pre>
       <li>7.21) surface 예측 시연 </li>
-      <pre>camera.jpg 카메라 사용</pre>
+      <pre>camera.jpg 카메라 사용, surface_test1.zip 파일 내의 이미지 파일 및 surface 시연1 참조</pre>
       <li>7.21) surface 예측에 tts 기능 추가 </li>
       <pre>surface_test1.zip 파일 내의 surface 시연2 참조</pre>
     </ul>
