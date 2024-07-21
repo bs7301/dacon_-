@@ -26,7 +26,7 @@
       <li>7.9) open data 저장 </li>
       <li>7.10) coco 형태의 json파일로 1차 가공</li>
       <li>7.20) surface 이미지에 대한 학습 및 예측 모델 구성</li>
-      <li> - bs_code 파일 참조 </li>
+      <li>         bs_code 파일 참조 </li>
       <li>7.21) surface 예측 시연 </li>
     </ul>
   </div>
