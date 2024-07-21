@@ -24,12 +24,14 @@
   <div markdown="1">
     <ul>
       <li>7.9) open data 저장 </li>
+      <pre>Ai hub : https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=189 </pre>
       <li>7.10) coco 형태의 json파일로 1차 가공</li>
       <li>7.20) surface 이미지에 대한 학습 및 예측 모델 구성</li>
       <pre>bs_code.ipynb 파일 참조</pre>
       <li>7.21) surface 예측 시연 </li>
+      <pre>camera.jpg 카메라 사용</pre>
       <li>7.21) surface 예측에 tts 기능 추가 </li>
-      <pre>bs_code.ipynb 파일 참조</pre>
+      <pre>surface_test1.zip 파일 내의 surface 시연2 참조</pre>
     </ul>
   </div>
 </details>
