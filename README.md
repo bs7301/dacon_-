@@ -7,9 +7,9 @@
 <p align="left"> <h3 align="left">Members🧑‍💻</h3> </p>
 
 - 🌱 고보성 (팀장) 
-- 🌱 김현수
 - 🌱 이창범
 - 🌱 이태민
+- 🌱 김현수 (하차)
 
 <p align="left"> <h3 align="left">Topic✔️</h3> </p>
 시각장애인을 위한 보행 보조 음성 안내 어플리케이션
