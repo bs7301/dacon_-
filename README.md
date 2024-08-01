@@ -3,7 +3,7 @@
 
 <h3 align="left">Hi 👋, we're from Hanseo Univ🎓</h3>
 
-
+- Matlab AI 경진대회 제출완료 : https://youtu.be/p0y4LSBuwYo?si=kwAumIQ2BRyJ0m4b
 <p align="left"> <h3 align="left">Members🧑‍💻</h3> </p>
 
 - 🌱 고보성 (팀장) 
@@ -17,7 +17,6 @@
 <p align="left"> <h3 align="left">Tools🛠️</h3> </p>
 
 - Matlab <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="20" height="20"/> </a>
-- Youtube : https://youtu.be/p0y4LSBuwYo?si=kwAumIQ2BRyJ0m4b
 - Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 
 
