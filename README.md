@@ -9,7 +9,7 @@
 - 🌱 고보성 (팀장) 
 - 🌱 이창범
 - 🌱 이태민
-- 🌱 김현수 (하차)
+
 
 <p align="left"> <h3 align="left">Topic✔️</h3> </p>
 시각장애인을 위한 보행 보조 음성 안내 어플리케이션
@@ -17,7 +17,9 @@
 <p align="left"> <h3 align="left">Tools🛠️</h3> </p>
 
 - Matlab <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="20" height="20"/> </a>
+- Youtube : https://youtu.be/p0y4LSBuwYo?si=kwAumIQ2BRyJ0m4b
 - Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+
 
 <details>
   <summary><b>진행현황</b></summary>
