@@ -34,6 +34,8 @@
       <pre>surface_test1.zip 파일 내의 surface 시연2 참고</pre>
       <li>7.28) 학습된 가중치를 불러와 + 카메라 연동 (최종시연에 사용) </li>
       <pre>BS_CAMERA.ipynb 파일참고</pre>
+      <li>8.1) 최종 학습 모델 MASK_RCNN </li>
+      <pre>MODEL.ipynb 파일참고</pre>
     </ul>
   </div>
 </details>
